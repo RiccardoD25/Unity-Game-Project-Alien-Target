@@ -1,7 +1,7 @@
 <h1>Unity-Game-Project-Alien-Target - Game Development</h1>
 
 <h2>Description</h2>
-This project is called Alien Target and it is a desktop game app that consists of simple C# scripts that advocates for the user to use the keboard "B" to deploy a rocket and hit the alien menace. TYou can also use the left and right arroes keys to move the rocket to a disred location where you will try to hit the target. This is an interactive game for everyone!
+This project is called Alien Target and it is a desktop game app that consists of simple C# scripts that advocates for the user to use the keyboard "B" key to deploy a rocket and hit the alien menace. You can also use the left and right arroes keys to move the rocket to a desired location where you will try to hit the target as it moves to random locations whithin the map. This is an interactive game for everyone!
 <br />
 
 
@@ -17,14 +17,13 @@ This project is called Alien Target and it is a desktop game app that consists o
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Intro Screen: <br/>
-<img src="https://imgur.com/8k5qFlU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/Y94Ty3a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Scene Screen: <br/>
+<img src="https://imgur.com/284XIaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Loading Screen:  <br/>
-<img src="https://imgur.com/63UXwQA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/BMUvXVa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Game Screen:  <br/>
+<img src="https://imgur.com/5K27gF5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 <br />
 <br />
