@@ -20,9 +20,5 @@ Scene Screen: <br/>
 <img src="https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/d95cca27-cfd0-4676-9a71-d304eaa99365.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />  
-Game Screen:  <br/>
-<img src="(https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/d46ade5c-9752-4c90-a2e9-7344200e0033.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 </p>
