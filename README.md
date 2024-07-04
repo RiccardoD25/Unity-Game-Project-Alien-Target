@@ -13,8 +13,6 @@ This project is called Alien Target and it is a desktop game that consists of si
 
 - <b>Windows 10 or 11</b> (21H2)
 
-<h2>Program walk-through:</h2>
-
 <br />
 <br />  
 
