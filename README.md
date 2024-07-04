@@ -1,7 +1,7 @@
 <h1>Unity-Game-Project-Alien-Target - Game Development</h1>
 
 <h2>Description</h2>
-This project is called Alien Target and it is a desktop game app that consists of simple C# scripts that advocates for the user to use the keyboard "B" key to deploy a rocket and hit the alien menace. You can also use the left and right arroes keys to move the rocket to a desired location where you will try to hit the target as it moves to random locations whithin the map, Oh! And the user only gets 10 tries. This is an interactive game for everyone!
+This project is called Driving Track and it is a Meta Oculus game VR app that consists of simple C# scripts that advocates for the user to use the controller joy stick to start moving the car. You have to go around the track and avoid falling off and landing into the ocean. Time to beat you best record!
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -11,13 +11,13 @@ This project is called Alien Target and it is a desktop game app that consists o
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10 or 11</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Scene Screen: <br/>
-<img src="https://imgur.com/284XIaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/d95cca27-cfd0-4676-9a71-d304eaa99365)
 <br />
 <br />
 Game Screen:  <br/>
