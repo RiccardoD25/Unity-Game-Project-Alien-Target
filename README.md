@@ -17,13 +17,12 @@ This project is called Driving Track and it is a Meta Oculus game VR app that co
 
 <p align="center">
 Scene Screen: <br/>
-<img src="https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/d95cca27-cfd0-4676-9a71-d304eaa99365">
+<img src="https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/d95cca27-cfd0-4676-9a71-d304eaa99365.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Game Screen:  <br/>
 <img src="https://imgur.com/5K27gF5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/jhFK28n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/od0LDS3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/d95cca27-cfd0-4676-9a71-d304eaa99365.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Replay Screen:  <br/>
@@ -32,4 +31,4 @@ Replay Screen:  <br/>
 <br />
 
 </p>
-![driving start](https://github.com/RiccardoD25/Unity-Game-Project-Alien-Target/assets/127334418/aff6b806-571f-4687-9d5d-76054d541373)
+
